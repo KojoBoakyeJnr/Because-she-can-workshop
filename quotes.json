@@ -52,5 +52,10 @@
  {  "name" : " Francis Bacon",
       "quote" : "Knowledge is power.",
       "contributor": "Anna-Sandra"
-   }    
+   },
+ {  "name" : "Steve Jobs",
+      "quote" : "Just Start",
+      "contributor": "Sam Kojo Boakye"
+   }   
+
 ]
