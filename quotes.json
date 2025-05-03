@@ -28,5 +28,10 @@
       "name" : "Maya Angelou",
       "quote" : "Still I Rise",
       "contributor": "El-Karece"
+   },
+   {
+      "name": "Confucius",
+      "quote": "The beginning of wisdom is calling things by their proper name",
+      "contributor": "Crispin"
    }
 ]
